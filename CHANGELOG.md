@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-17)
+## Unreleased (2026-07-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b953edd`](https://github.com/stdlib-js/stdlib/commit/b953edd95d0ca1b521d0abbd2c2719d099ff7807) - **refactor:** use `constants/float64/nan` and clean-up [(#13585)](https://github.com/stdlib-js/stdlib/pull/13585) _(by Philipp Burckhardt)_
 -   [`f4e4e04`](https://github.com/stdlib-js/stdlib/commit/f4e4e048b1742b422709fea557d7301ba7390ad8) - **feat:** add `blas/base/ndarray/snrm2` [(#12156)](https://github.com/stdlib-js/stdlib/pull/12156) _(by Kaustubh Patange)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Kaustubh Patange
+-   Philipp Burckhardt
 
 </section>
 
